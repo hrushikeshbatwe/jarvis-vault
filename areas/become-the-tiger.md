@@ -6,7 +6,7 @@ updated: 2026-08-20
 - Delivered and paid (~week of Aug 10, 2026), project closed
 - Was in revision after Dan requested a compressed human section using only POV shots and an eye-dissolve transformation
 - Working through UE5 rendering bugs: MRQ temporal sample issues, PCG memory crashes
-- Current rate with Dan is ~$600 for the 3-minute cinematic, far below market
+- Current rate with Dan is $700 for the 3-minute cinematic (previously $600), far below market
 - Next project will be repriced upward toward a $1,500 minimum
 - Cannot be used publicly in outreach until cleared for public use; EAGLE leads outreach until then
 - Revision replaced the human section with a MetaHuman eye close-up and POV run dissolving into tiger POV; received strong approval

@@ -11,6 +11,6 @@ updated: 2026-09-03
 - Raise plan: anchor ₹40k, floor ₹30k; justify on scope (three roles), never mention freelance income
 - Raise has already been asked for; employer stalled it with "wait 2-3 months", no figure or date given
 - Exit conditions, quit when second recurring client is signed, or freelance income holds ₹1.5L/month for 2 months, or the raise lands below ₹30k; target exit around Sept 1
-- Meanwhile: scope-only work, leaves at 5:30, no unpaid overtime, avoids taking on major new projects
+- Meanwhile: scope-only work, leaves at 6, no unpaid overtime, avoids taking on major new projects
 - Wants to leave without burning the founder or cousin, keeps the exit professional for references and verification
 - Exit planned September 2026 if a second Titanium client is secured
