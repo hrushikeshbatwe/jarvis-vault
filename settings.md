@@ -1,6 +1,6 @@
 ---
 provider: openrouter
-model: nex-agi/nex-n2.5-pro:free
+model: z-ai/glm-5.3-flash
 ---
 # Jarvis settings
 
