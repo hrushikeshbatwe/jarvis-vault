@@ -1,0 +1,40 @@
+---
+updated: 2026-09-08
+aliases: [Titanium]
+---
+# Titanium Studios
+- Freelance UE5 cinematic artist business run by the user
+- Strongest portfolio piece is EAGLE, which leads all outreach until the tiger cinematic is cleared for public use
+- Raise conversation pending at AllyNerds around one-year anniversary with a clear walkaway position; if counter comes in below the floor, job exit accelerates to September provided a second freelance client is signed
+- Second-client outreach strategy: decided against starting with game studios (July 2026); archviz firms are the intended lane, gated on the Mountain Modern spec piece
+- Product/brand cinematics running as a parallel outreach track using the FenzArt and Cineshot pieces, since archviz has no portfolio proof yet
+- Sending the UAE/Saudi studio and brand list (26 prospects, tracker sheet) on 6 Aug 2026; Europe list to be researched and sent the following day
+- Domain email set up and verified: SPF, DKIM valid, DMARC at p=quarantine; sending from own mailbox rather than a transactional provider
+- Portfolio pieces: EAGLE (real-time cinematic), TMA (a windmill project, currently labeled architectural visualization on the site), FenzArt and Cineshot (product visualization), no true building-archviz piece yet
+- Mountain Modern spec piece: cliffside A-frame, dark timber, raw stone, large glazing, 60-second cinematic, five planned shots
+- Mountain Modern built from scratch, A-frame shell built in UE5; asset gaps identified (conifer/pine trees, indoor plants)
+- LinkedIn strategy: 50-300 word technical posts drawn from production problems, posted personally (not as a company page), as a compounding inbound layer alongside direct DM outreach
+- Direct DM outreach targets archviz firm founders in UK, US, and Australia
+- Five priority LinkedIn targets: Peter Guthrie, Jon Ogilvy, Jakub Rozanski, Colin Prothero, Gordon Brown
+- Revenue target of ~₹1 lakh for August 2026; Dan covers ~$400 of it, rest must come from a new client
+- Wants a logo for Titanium Studios (Aug 2026)
+- Logo direction: likes the "Ti" periodic-table concept
+- Potential new client meeting scheduled 14 Aug 2026, first real pitch toward the second-client goal
+- A large project is lined up (Aug 2026) expected to bring in roughly $5-10k over the next 4-5 months; big enough that he may need to hire someone to deliver it
+- Website is titaniumworlds.com; ArtStation at artstation.com/hrushikeshbatwe; Cal.com booking profile set up
+- Positioning line: "you came for a freelancer, you found a studio"
+- Primary goal is making Titanium Studios his main income source, triggered by landing a second recurring client before September 1, 2026
+- Pricing floor for new direct clients: USD $1,500/project minimum with 50% upfront deposit
+- Mountain Modern is the unlock for archviz outreach; advised to scope down to one hero shot and post publicly on LinkedIn to manufacture external pressure, a September/October play
+- Product/brand cinematics (FenzArt, Cineshot) identified as the right lane for August
+- Outreach sent from hrushikesh@titaniumworlds.com directly, capped at 10-15 emails/day; DMARC at p=quarantine, do not change to p=reject
+- August KPI is pipeline volume (~150 touches) rather than closed revenue
+- Top prospects: Piomotion DMCC (Dubai), beffio (Poland), Agrifac Machinery (Netherlands); a beffio job application was drafted
+- Target markets: UK, US, Australia, UAE, Saudi Arabia, Western Europe; India deprioritized due to rate mismatch
+- Archviz firm targets with firms: Peter Guthrie (The Boundary), Jon Ogilvy (Tandem Studios), Jakub Rozanski (HEJ HEY Studio), Colin Prothero (Voluminous), Gordon Brown (Collabor8-Studio)
+- UE5 asset library catalogued (147 assets); gaps: conifer/pine trees, indoor plants
+- Uses Titan Mail (via GoDaddy) as the client for the titaniumworlds.com mailbox
+- Built a non-CGI end client prospect sheet (industry, company, HQ, website, why they need real-time 3D, who to contact, priority) covering wind and renewables, agricultural machinery, construction and heavy equipment, mining, industrial automation, medical devices, marine, EV charging, aerospace, Gulf property developers and premium consumer brands; first 20 High-priority rows drafted as outreach emails on 27 Aug 2026
+- Expanded end-client outreach to 105 companies across industries (3D/CGI: 30, Wind & renewable: 11, Ag machinery: 8, Gulf property: 8, Construction: 6, Industrial automation: 6, Medical: 6, Mining: 5, Marine: 5, Energy services: 5, EV charging: 5, Aerospace: 5, Premium brands: 5); each email personalized to the company's current project with specific offer, not generic spray-and-pray
+- Outreach results as of early Sept 2026: ~150 cold emails plus 50+ LinkedIn DMs sent, 30-40% open rate, only one reply (a "no requirement now, will reach out later"); follow-ups planned
+- Started freelancing in late February 2026 (so ~6 months in as of Sept 2026, not counting the AllyNerds job that began July 2025)
