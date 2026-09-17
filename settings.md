@@ -1,5 +1,5 @@
 ---
-provider: ollama
+provider: openrouter
 model: local
 ---
 # Jarvis settings
