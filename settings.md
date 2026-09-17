@@ -1,6 +1,6 @@
 ---
 provider: openrouter
-model: nvidia/nemotron-3-super-120b-a12b:free
+model: z-ai/glm-5.3-flash
 ---
 # Jarvis settings
 
