@@ -1,6 +1,6 @@
 ---
 provider: ollama
-model: nex-agi/nex-n2.5-pro:free
+model: local
 ---
 # Jarvis settings
 
