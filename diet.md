@@ -1,6 +1,6 @@
 ---
 mode: family
-move_out:
+move_out: 2026-10-01
 ---
 # Diet
 Vegetarian, no eggs, dairy is fine. Never tamarind. No added sugar.
