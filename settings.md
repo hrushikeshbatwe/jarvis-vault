@@ -1,6 +1,6 @@
 ---
 provider: openrouter
-model: google/gemini-3.5-flash-lite
+model: z-ai/glm-5.3-flash
 ---
 # Jarvis settings
 
