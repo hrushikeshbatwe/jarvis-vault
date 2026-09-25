@@ -7,5 +7,4 @@
 - Once I decide, confirm and move on. Don't re-analyze it
 - For product decisions, lay out the tradeoffs neutrally
 - Give a recommendation first. Don't build something I didn't ask for
-- In chair recommendations, skip the 3D vs 4D armrest question
 - Adapt plans to my real schedule, but never quietly lower my goals

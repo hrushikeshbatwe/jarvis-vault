@@ -13,15 +13,15 @@
 - Wakes around 7:30am, sleeps around 1am (late nights are non-negotiable)
 
 ## Current focus
-- Titanium: land a second recurring client, then leave AllyNerds (target September 2026)
+- Titanium: land a second recurring client, then leave AllyNerds (target november 2026)
 - Fitness: fat loss first, 90-92 kg and waist 102-104 cm by the Konkan trip in mid-October
-- Japanese: JLPT N5, December 2026
+- Japanese: JLPT N4, June 2027 (SKipping N5 due to forgot to fill the form for N5)
 - Maze Market Madness: build the prototype
 - Move out: 2BHK with brother, rent under ₹15,000/month
 - AFrame House: working on it now
 
 ## Long-term goals
-- Relocate to Japan (permanent residency by about 26)
-- Grow Titanium into a cinematic agency
+- Relocate to Japan (permanent residency by about age 26)
+- Grow Titanium into a cinematic agency and then covert into a Game Studio
 - Ship an original game IP
 - Start a private space agency
