@@ -3,7 +3,7 @@ How far each may go on its own: off, suggest, undo or quiet. Set in Setup.
 - late | up to: quiet
 - follow-up | up to: quiet
 - plan | up to: quiet | spent: 2026-09 0.0001
-- memory | up to: quiet | spent: 2026-09 0.0001
+- memory | up to: quiet | spent: 2026-09 0.0002
 - review | up to: suggest
 - work | up to: undo
 ## Runs
