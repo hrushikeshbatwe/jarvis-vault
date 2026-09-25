@@ -5,3 +5,4 @@
 - [ ] Complete the interior of the house [[areas/aframe-house]] 📅 2026-09-25
 - [ ] Walk/run 30 min [[areas/become-the-tiger]] ⏰ 20:00-20:30 📅 2026-09-25 #aframe-house
 - [ ] Complete the interior of the house [[areas/aframe-house]] ⏰ 20:30-21:30 📅 2026-09-25 #aframe-house
+- [ ] Start working on the cinematics [[areas/aframe-house]] ⏰ 09:00 📅 2026-09-26 #aframe-house
