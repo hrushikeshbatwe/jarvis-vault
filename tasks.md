@@ -3,3 +3,4 @@
 - [ ] Work on Maze Market Madness [[areas/maze-market-madness]] 📅 2026-09-25 #maze-market-madness
 - [ ] Office work [[areas/allynerds]] 📅 2026-09-25 #allynerds
 - [ ] Complete the interior of the house [[areas/aframe-house]] 📅 2026-09-25
+- [ ] Walk/run 30 min [[areas/become-the-tiger]] ⏰ 20:00-20:30 📅 2026-09-25 #aframe-house
