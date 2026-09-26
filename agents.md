@@ -8,3 +8,4 @@ How far each may go on its own: off, suggest, undo or quiet. Set in Setup.
 - work | up to: undo
 ## Runs
 - 2026-09-24 21:10 plan: filed 3 (cloud, undo)
+- 2026-09-26 11:05 late: moved 3
