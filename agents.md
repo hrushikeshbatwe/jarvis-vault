@@ -11,3 +11,4 @@ How far each may go on its own: off, suggest, undo or quiet. Set in Setup.
 - 2026-09-26 11:05 late: moved 3
 - 2026-09-27 16:26 late: moved 1
 - 2026-09-27 16:26 memory: filed 2 (cloud, suggest)
+- 2026-09-27 19:35 review: review did not match the facts (cloud, suggest)
