@@ -12,3 +12,4 @@ spent: 2026-09 0.0021
 - [-] 2026-09-24 07:23 fact [[areas/allynerds]]: There is a task for office work. ^scb2b61
 - [ ] 2026-09-27 16:26 fact [[areas/aframe-house]]: The cinematics work was moved to 2026-09-28. ^s608b3d
 - [ ] 2026-09-27 16:26 fact [[areas/allynerds]]: The user asked what the next step on AllyNerds is on 2026-09-26. ^s280bc8
+- [ ] 2026-09-27 19:35 review 2026-W39: reviews/2026-W39.md ^sbd85c9
