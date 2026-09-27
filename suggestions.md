@@ -10,3 +10,4 @@ spent: 2026-09 0.0015
 - [ ] 2026-09-24 07:23 fact [[areas/maze-market-madness]]: There is a task to work on Maze Market Madness. ^sd6156b
 - [x] 2026-09-24 07:23 fact [[areas/aframe-house]]: There is a task to complete the interior of the house. ^s67b543 ✅ 2026-09-24
 - [-] 2026-09-24 07:23 fact [[areas/allynerds]]: There is a task for office work. ^scb2b61
+- [ ] 2026-09-27 16:26 fact [[areas/aframe-house]]: The cinematics work was moved to 2026-09-28. ^s608b3d
