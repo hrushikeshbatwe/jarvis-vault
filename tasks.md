@@ -7,3 +7,4 @@
 - [ ] Complete the interior of the house [[areas/aframe-house]] ⏰ 20:30-21:30 📅 2026-09-25 #aframe-house
 - [x] Start working on the cinematics [[areas/aframe-house]] ⏰ 09:00 📅 2026-09-30 #aframe-house ✅ 2026-09-30
 - [ ] make the CG hero page and Titanium studio logo ⏰ 22:55-23:25 📅 2026-09-28
+- [ ] complete the uploading the Footage of the A frame House every where [[areas/aframe-house]]
