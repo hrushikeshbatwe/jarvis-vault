@@ -13,3 +13,4 @@ spent: 2026-09 0.0025
 - [ ] 2026-09-27 16:26 fact [[areas/aframe-house]]: The cinematics work was moved to 2026-09-28. ^s608b3d
 - [ ] 2026-09-27 16:26 fact [[areas/allynerds]]: The user asked what the next step on AllyNerds is on 2026-09-26. ^s280bc8
 - [ ] 2026-09-27 19:35 review 2026-W39: reviews/2026-W39.md ^sbd85c9
+- [ ] 2026-09-30 07:57 fact [[areas/aframe-house]]: Cinematics work is scheduled for 2026-09-30. ^sab9537
