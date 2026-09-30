@@ -15,3 +15,4 @@ How far each may go on its own: off, suggest, undo or quiet. Set in Setup.
 - 2026-09-27 22:51 plan: filed 2 (cloud, undo)
 - 2026-09-29 08:47 late: moved 1
 - 2026-09-30 07:57 late: moved 1
+- 2026-09-30 07:57 memory: filed 1 (cloud, suggest)
