@@ -5,5 +5,5 @@
 - [ ] Complete the interior of the house [[areas/aframe-house]] 📅 2026-09-25
 - [ ] Walk/run 30 min [[areas/become-the-tiger]] ⏰ 20:00-20:30 📅 2026-09-28 #aframe-house
 - [ ] Complete the interior of the house [[areas/aframe-house]] ⏰ 20:30-21:30 📅 2026-09-25 #aframe-house
-- [ ] Start working on the cinematics [[areas/aframe-house]] ⏰ 09:00 📅 2026-09-29 #aframe-house
+- [ ] Start working on the cinematics [[areas/aframe-house]] ⏰ 09:00 📅 2026-09-30 #aframe-house
 - [ ] make the CG hero page and Titanium studio logo ⏰ 22:55-23:25 📅 2026-09-28
