@@ -14,3 +14,4 @@ updated: 2026-09-03
 - Meanwhile: scope-only work, leaves at 6, no unpaid overtime, avoids taking on major new projects
 - Wants to leave without burning the founder or cousin, keeps the exit professional for references and verification
 - Exit planned September 2026 if a second Titanium client is secured
+- 2026-10-05: AllyNerds shut down. Got experience letter, salary certificate, final pay confirmed in writing. 1 month pay buffer.
