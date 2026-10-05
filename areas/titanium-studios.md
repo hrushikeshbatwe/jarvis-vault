@@ -39,3 +39,4 @@ aliases: [Titanium]
 - Outreach results as of early Sept 2026: ~150 cold emails plus 50+ LinkedIn DMs sent, 30-40% open rate, only one reply (a "no requirement now, will reach out later"); follow-ups planned
 - Started freelancing in late February 2026 (so ~6 months in as of Sept 2026, not counting the AllyNerds job that began July 2025)
 - 2026-10-05: Full time on Titanium Studios since Oct 2026. Runway ~₹1 lakh savings. Goal: land a client/contract by end of October. Working 12-13 hrs/day. Fallback: if no clients by February, part time dev contracting.
+- 2026-10-05: Title decided: "UE5 Cinematic Artist" (not Founder). UE5 cinematics = headline. Services: archviz, game trailers, product films.
