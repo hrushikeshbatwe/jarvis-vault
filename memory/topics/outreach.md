@@ -11,6 +11,13 @@ How he finds clients for Titanium Studios. From the All In Plan, October 2026.
 - 2026-10-05: Edge: real time means fast changes, a new camera move or lighting tweak takes hours, not another overnight render
 - 2026-10-05: Proof: the paid horror cinematic (only if the client is okay), Mountain Modern (archviz, 3 reels), A-Frame Forest Cabin, Eagle Cinematic. Next piece: interior spec, around Oct 20
 
+## Targets
+Where the outreach agent looks each night. Edit this to change the mix; it reads it every run.
+- Up to 6 archviz studios or architecture firms with strong stills but little or no animation.
+- Up to 5 real estate and property developers with a project in pre-sale or under construction and no walkthrough film.
+- Up to 4 product brands launching something physical (furniture, interiors, gadgets, vehicles) with no product film or only phone footage.
+- 2026-10-05: No indie game trailers: very niche and low paying.
+
 ## Channels, fastest first
 - 2026-10-05: Warm network (past client, the referrer, the AllyNerds founder, IGDC contacts), then cold email (the main channel), then Upwork and CGHero (strong fits only, apply early), then LinkedIn (5 to 10 targeted connects a day), then communities (UE5 and indie Discords, r/unrealengine, help not spam). YouTube is for fun and never eats outreach time
 - 2026-10-05: Cold targets: indie games on Steam Coming Soon without a real trailer, archviz studios with stills and no animation, real estate developers, product brands

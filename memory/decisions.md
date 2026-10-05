@@ -13,3 +13,4 @@
 - 2026-10-05: Runway: about 1 lakh plus the buffer month's pay, living at home, roughly 7 months
 - 2026-10-05: Cold email is the main channel. Upwork is the crowded street, cold email the empty one
 - 2026-10-05: Only pay for tools that directly help land or deliver client work
+- 2026-10-05: Outreach drops indie game trailers (very niche, low paying). Focus: archviz studios, property developers, product brands. The mix lives in memory/topics/outreach.md, Targets, and changes as replies show what works
