@@ -1,4 +1,5 @@
 ---
+outreach: 2026-10-06 tries 1 at 02:03
 brief: 2026-10-05
 plan: 2026-10-06
 review: 2026-W39
