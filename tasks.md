@@ -8,3 +8,12 @@
 - [x] Start working on the cinematics [[areas/aframe-house]] ⏰ 09:00 📅 2026-09-30 #aframe-house ✅ 2026-09-30
 - [x] make the CG hero page and Titanium studio logo ⏰ 22:55-23:25 📅 2026-09-28
 - [x] complete the uploading the Footage of the A frame House every where [[areas/aframe-house]] ✅ 2026-10-02
+- [ ] Cancel Upwork Freelancer Plus before it renews on Nov 5 [[areas/titanium-studios]] ⏰ 11:00 📅 2026-11-03
+- [ ] Post the Instagram reel from the phone app, web upload failed [[areas/titanium-studios]]
+- [ ] Make a 40 to 50s showreel for LinkedIn and the site [[areas/titanium-studios]]
+- [ ] Follow up with [[memory/people/dan]] on the 3DfenzArt meeting and the TMA Saudi pitch, from his Ghostcat email
+- [ ] Invoice the TMA site work to Ghostcat [[memory/people/dan]]
+- [ ] Send Åse the drafted reply (scene breakdown, LED resolution, timeline, budget, Cal link) and fix the call length mismatch [[memory/people/ase]]
+- [ ] CryoPod: write what the AI wants and why it lies [[areas/crypod]]
+- [ ] CryoPod: first build, the wake-up sequence as a Level Sequence [[areas/crypod]]
+- [ ] Pick a browser to replace Zen (audio bug): Vivaldi or Brave
