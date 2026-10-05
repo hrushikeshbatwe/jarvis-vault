@@ -1,10 +1,10 @@
 # Tasks
 - [x] tasks for me I have to give presentation 📅 2026-09-18 ✅ 2026-09-18
-- [-] Work on Maze Market Madness [[areas/maze-market-madness]] ⏰ 21:50-22:20 📅 2026-10-04 #maze-market-madness ❌ 2026-10-05
+- [x] Work on Maze Market Madness [[areas/maze-market-madness]] ⏰ 21:50-22:20 📅 2026-10-04 #maze-market-madness ❌ 2026-10-05
 - [x] Office work [[areas/allynerds]] 📅 2026-09-25 #allynerds ✅ 2026-09-25
-- [ ] Complete the interior of the house [[areas/aframe-house]] 📅 2026-10-05
+- [x] Complete the interior of the house [[areas/aframe-house]] 📅 2026-10-05
 - [x] Walk/run 30 min [[areas/become-the-tiger]] ⏰ 20:00-20:30 📅 2026-10-04 #aframe-house ✅ 2026-10-05
-- [ ] Complete the interior of the house [[areas/aframe-house]] ⏰ 20:30-21:30 📅 2026-09-25 #aframe-house
+- [x] Complete the interior of the house [[areas/aframe-house]] ⏰ 20:30-21:30 📅 2026-09-25 #aframe-house
 - [x] Start working on the cinematics [[areas/aframe-house]] ⏰ 09:00 📅 2026-09-30 #aframe-house ✅ 2026-09-30
-- [ ] make the CG hero page and Titanium studio logo ⏰ 22:55-23:25 📅 2026-09-28
+- [x] make the CG hero page and Titanium studio logo ⏰ 22:55-23:25 📅 2026-09-28
 - [x] complete the uploading the Footage of the A frame House every where [[areas/aframe-house]] ✅ 2026-10-02
