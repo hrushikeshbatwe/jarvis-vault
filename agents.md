@@ -21,3 +21,4 @@ How far each may go on its own: off, suggest, undo or quiet. Set in Setup.
 - 2026-10-03 07:56 memory: filed 1 (cloud, undo)
 - 2026-10-03 22:24 plan: filed 2 (cloud, undo)
 - 2026-10-05 18:15 brief: Morning brief: nothing new overnight. Yesterday 0/10 emails, 0/1 proposals.
+- 2026-10-05 19:02 plan: filed 3 (local, undo)
