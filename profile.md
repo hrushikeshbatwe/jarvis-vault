@@ -19,6 +19,7 @@
 - Maze Market Madness: build the prototype
 - Move out: 2BHK with brother, rent under ₹15,000/month
 - AFrame House: working on it now
+- Crypod: working on it now
 
 ## Long-term goals
 - Relocate to Japan (permanent residency by about age 26)
