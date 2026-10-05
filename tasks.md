@@ -17,7 +17,7 @@
 - [ ] CryoPod: write what the AI wants and why it lies [[areas/crypod]]
 - [ ] CryoPod: first build, the wake-up sequence as a Level Sequence [[areas/crypod]]
 - [ ] Pick a browser to replace Zen (audio bug): Vivaldi or Brave
-- [ ] Add PAN in Upwork tax settings, or up to 5% is withheld instead of 0.1% [[areas/titanium-studios]] 📅 2026-10-07
+- [ ] Add PAN in Upwork tax settings, or up to 5% is withheld instead of 0.1% [[areas/titanium-studios]] 📅 2026-10-06
 - [ ] Upwork profile: title UE5 Cinematic Artist, Mountain Modern as portfolio highlight 1, custom URL, job alerts (Unreal Engine, archviz animation, 3D walkthrough, real estate animation, cinematic) [[areas/titanium-studios]] 📅 2026-10-08
 - [ ] LinkedIn: headline, About, Titanium experience, AllyNerds end date Oct 2026, Services section, Featured reel and banner from Mountain Modern, skills order [[areas/titanium-studios]] 📅 2026-10-08
 - [ ] Warm message: past client, for repeat work or referrals [[areas/titanium-studios]] 📅 2026-10-09
