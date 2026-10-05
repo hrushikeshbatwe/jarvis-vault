@@ -4,3 +4,4 @@
 - 2026-10-05: No social media for the first 30 minutes after waking (watch: outreach)
 - 2026-10-05: Dropped Maze Market Madness: he did not like the idea he was building on. [[areas/maze-market-madness]]
 - 2026-10-05: AFrame House project is completely done. [[areas/aframe-house]]
+- 2026-10-05: Stopped: Health Super App, Punctrr, Maze Market Madness.
