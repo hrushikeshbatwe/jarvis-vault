@@ -12,4 +12,5 @@ updated: 2026-09-11
 - Needs two proper separate bedrooms (not 1BHK-plus-hall), bachelors-allowed or all-tenants, available now or within a month
 - Tightened the rent cap to under ₹15,000/month and added a requirement that the building be less than 7 years old
 - Also searching Narendra Nagar / Narendra Nagar Extension (close to the Manewada office without being in Manewada)
-- 2026-10-05: Nagpur 2BHK with brother, 50/50 split, under ₹15k, building under 7 yrs old. Expected ~2 weeks from late Sep.
+- ~~2026-10-05: Nagpur 2BHK with brother, 50/50 split, under ₹15k, building under 7 yrs old. Expected ~2 weeks from late Sep.~~ (replaced 2026-10-05)
+- 2026-10-05: On hold: no move until Titanium brings steady money for 2 to 3 months

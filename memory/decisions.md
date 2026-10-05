@@ -8,3 +8,8 @@
 - 2026-10-05: Schedule: wake 7:30, sleep ~1am. Morning walk/run/cycle replaces evening gym. No rest days. Outreach after lunch (sleepy slot).
 - 2026-10-05: Motto: "Working on next impossible thing". YouTube is a side thing for fun. Reading idea: Chainsaw Man manga from ch 39. Hyderabad move only once Titanium income is stable, still undecided.
 - 2026-10-05: Current focus: full time on Titanium, land a client/contract by end of October 2026. Evening gym replaced by morning walk/run/cycle.
+- 2026-10-05: October goal: one paying client or contract by Oct 31. No verdicts before Oct 31; review the numbers then and adjust
+- 2026-10-05: Safety line February: if no steady client work by then, take a part time dev contract and keep Titanium running beside it. That is not quitting
+- 2026-10-05: Runway: about 1 lakh plus the buffer month's pay, living at home, roughly 7 months
+- 2026-10-05: Cold email is the main channel. Upwork is the crowded street, cold email the empty one
+- 2026-10-05: Only pay for tools that directly help land or deliver client work

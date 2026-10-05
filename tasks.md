@@ -8,7 +8,7 @@
 - [x] Start working on the cinematics [[areas/aframe-house]] ⏰ 09:00 📅 2026-09-30 #aframe-house ✅ 2026-09-30
 - [x] make the CG hero page and Titanium studio logo ⏰ 22:55-23:25 📅 2026-09-28
 - [x] complete the uploading the Footage of the A frame House every where [[areas/aframe-house]] ✅ 2026-10-02
-- [ ] Cancel Upwork Freelancer Plus before it renews on Nov 5 [[areas/titanium-studios]] ⏰ 11:00 📅 2026-11-03
+- [ ] Cancel Upwork Freelancer Plus before it renews on Nov 5 [[areas/titanium-studios]] ⏰ 11:00 📅 2026-11-02
 - [ ] Post the Instagram reel from the phone app, web upload failed [[areas/titanium-studios]]
 - [ ] Make a 40 to 50s showreel for LinkedIn and the site [[areas/titanium-studios]]
 - [ ] Follow up with [[memory/people/dan]] on the 3DfenzArt meeting and the TMA Saudi pitch, from his Ghostcat email
@@ -17,3 +17,12 @@
 - [ ] CryoPod: write what the AI wants and why it lies [[areas/crypod]]
 - [ ] CryoPod: first build, the wake-up sequence as a Level Sequence [[areas/crypod]]
 - [ ] Pick a browser to replace Zen (audio bug): Vivaldi or Brave
+- [ ] Add PAN in Upwork tax settings, or up to 5% is withheld instead of 0.1% [[areas/titanium-studios]] 📅 2026-10-07
+- [ ] Upwork profile: title UE5 Cinematic Artist, Mountain Modern as portfolio highlight 1, custom URL, job alerts (Unreal Engine, archviz animation, 3D walkthrough, real estate animation, cinematic) [[areas/titanium-studios]] 📅 2026-10-08
+- [ ] LinkedIn: headline, About, Titanium experience, AllyNerds end date Oct 2026, Services section, Featured reel and banner from Mountain Modern, skills order [[areas/titanium-studios]] 📅 2026-10-08
+- [ ] Warm message: past client, for repeat work or referrals [[areas/titanium-studios]] 📅 2026-10-09
+- [ ] Warm message: the referrer who sent that client [[areas/titanium-studios]] 📅 2026-10-09
+- [ ] Warm message: the AllyNerds founder [[areas/titanium-studios]] 📅 2026-10-09
+- [ ] Warm message: IGDC contacts [[areas/titanium-studios]] 📅 2026-10-09
+- [ ] Finish the interior spec portfolio piece [[areas/titanium-studios]] 📅 2026-10-20
+- [ ] October review: emails sent, replies, proposals, calls. Then adjust [[areas/titanium-studios]] 📅 2026-10-31
