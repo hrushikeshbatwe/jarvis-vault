@@ -5,3 +5,4 @@
 - walk-run | target: 5/week | min: 15 min walk
 - outreach | target: 7/week | min: 10 emails sent (the daily minimum)
 - morning-move | target: 6/week | min: 10 min walk
+- shutdown | target: 7/week | min: tracker updated + tomorrow's top 3
