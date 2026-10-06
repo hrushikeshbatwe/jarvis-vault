@@ -28,3 +28,4 @@ How far each may go on its own: off, suggest, undo or quiet. Set in Setup.
 - 2026-10-07 01:20 outreach: 3 leads, 0 drafts ready, 1 dropped (run by hand after the browser fix)
 - 2026-10-07 01:51 replies: 0 replies, 0 sends logged. titaniumworlds: Command failed
 - 2026-10-07 01:51 jobs: 0 alerts, 0 jobs, 0 to score. titaniumworlds: Command failed
+- 2026-10-07 01:57 replies: 0 replies, 0 sends logged. titaniumworlds: login refused (Authentication failed.)
