@@ -13,7 +13,7 @@
 - [ ] Make a 40 to 50s showreel for LinkedIn and the site [[areas/titanium-studios]]
 - [ ] Follow up with [[memory/people/dan]] on the 3DfenzArt meeting and the TMA Saudi pitch, from his Ghostcat email
 - [ ] Invoice the TMA site work to Ghostcat [[memory/people/dan]]
-- [ ] Send Åse the drafted reply (scene breakdown, LED resolution, timeline, budget, Cal link) and fix the call length mismatch [[memory/people/ase]]
+- [ ] Send Åse the drafted reply (scene breakdown, LED resolution, timeline, budget, Cal link) and fix the call length mismatch [[memory/people/ase]] 📅 2026-10-07
 - [ ] CryoPod: write what the AI wants and why it lies [[areas/crypod]]
 - [ ] CryoPod: first build, the wake-up sequence as a Level Sequence [[areas/crypod]]
 - [ ] Pick a browser to replace Zen (audio bug): Vivaldi or Brave
