@@ -63,3 +63,4 @@ Hrushikesh
 Titanium Studios
 
 ## Reels
+- 2026-10-06: https://www.instagram.com/titaniumworlds/reel/DeAD6ErupWq/ (his only reel online for now: put it where every template says [reel link]; more will come)
