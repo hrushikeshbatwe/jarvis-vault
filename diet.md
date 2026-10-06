@@ -50,3 +50,15 @@ Every meal: 1 protein + 2 roti or 1 katori rice + half plate sabzi.
 - 2026-10-07 breakfast: curd bowl
 - 2026-10-07 lunch: paneer, 2 roti, half plate sabzi
 - 2026-10-07 dinner: dal + curd, 1 katori rice, half plate sabzi
+- 2026-10-08 breakfast: besan chilla
+- 2026-10-08 lunch: rajma, 2 roti, half plate sabzi
+- 2026-10-08 dinner: soya chunks, 1 katori rice, half plate sabzi
+- 2026-10-09 breakfast: paneer bhurji
+- 2026-10-09 lunch: chole, 2 roti, half plate sabzi
+- 2026-10-09 dinner: dal + curd, 1 katori rice, half plate sabzi
+- 2026-10-10 breakfast: besan chilla
+- 2026-10-10 lunch: paneer, 2 roti, half plate sabzi
+- 2026-10-10 dinner: soya chunks, 2 roti, half plate sabzi
+- 2026-10-11 breakfast: curd bowl
+- 2026-10-11 lunch: rajma, 1 katori rice, half plate sabzi
+- 2026-10-11 dinner: dal + curd, 1 katori rice, half plate sabzi
