@@ -1,7 +1,7 @@
 ---
 jobs: 1791318087
 replies: 1791318780
-outreach: 2026-10-07 tries 1 at 02:03
+outreach: 2026-10-07 done
 brief: 2026-10-06
 plan: 2026-10-07
 review: 2026-W39
