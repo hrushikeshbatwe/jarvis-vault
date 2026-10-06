@@ -21,7 +21,7 @@
 - [x] Upwork profile: title UE5 Cinematic Artist, Mountain Modern as portfolio highlight 1, custom URL, job alerts (Unreal Engine, archviz animation, 3D walkthrough, real estate animation, cinematic) [[areas/titanium-studios]] 📅 2026-10-06 ✅ 2026-10-06
 - [x] LinkedIn: headline, About, Titanium experience, AllyNerds end date Oct 2026, Services section, Featured reel and banner from Mountain Modern, skills order [[areas/titanium-studios]] 📅 2026-10-06 ✅ 2026-10-06
 - [ ] Warm message: past client, for repeat work or referrals [[areas/titanium-studios]] 📅 2026-10-07
-- [ ] Warm message: the referrer who sent that client [[areas/titanium-studios]] 📅 2026-10-09
+- [ ] Warm message: the referrer who sent that client [[areas/titanium-studios]] 📅 2026-10-07
 - [ ] Warm message: the AllyNerds founder [[areas/titanium-studios]] 📅 2026-10-09
 - [ ] Warm message: IGDC contacts [[areas/titanium-studios]] 📅 2026-10-09
 - [ ] Finish the interior spec portfolio piece [[areas/titanium-studios]] 📅 2026-10-20
