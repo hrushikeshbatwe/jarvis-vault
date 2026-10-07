@@ -1,4 +1,5 @@
 ---
+stage: proposal
 type: person
 aliases: []
 ---
