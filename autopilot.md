@@ -1,5 +1,5 @@
 ---
-heartbeat: laptop 2026-10-07 15:13
+heartbeat: DESKTOP-8JL2GKS 2026-10-07 15:43
 chores: 2026-10-07
 problem: none
 ---
