@@ -24,6 +24,7 @@
 - Japanese: JLPT N4, June 2027 (SKipping N5 due to forgot to fill the form for N5)
 - Move out: on hold until Titanium brings steady money for 2 to 3 months
 - CryoPod: weekends only, 4 to 5 hours a week at most. More after 2 paying clients in a row
+- Samples - Library Interior & Birch Grove: working on it now
 
 ## Long-term goals
 - Relocate to Japan (permanent residency by about age 26)
