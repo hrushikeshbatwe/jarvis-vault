@@ -40,3 +40,4 @@ How far each may go on its own: off, suggest, undo or quiet. Set in Setup.
 - 2026-10-07 19:04 plan: filed 3 (local, undo)
 - 2026-10-07 20:53 memory: filed 3 (local, undo)
 - 2026-10-07 23:57 memory: filed 4 (local, undo)
+- 2026-10-08 02:09 outreach: 6 leads, 6 drafts ready, 1 dropped (the email is not on the page it came from)
