@@ -9,3 +9,4 @@ Every lead the outreach agent has ever brought, so none comes twice.
 - 2026-10-08 Studio Naadi | studionaadi.com
 - 2026-10-08 Inner Spaces | innerspaces.in
 - 2026-10-08 Opulent Developers | opulentdevelopers.com
+- 2026-10-08 White Flower Developers | whiteflowerdevelopers.com
