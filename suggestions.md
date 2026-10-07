@@ -2,7 +2,7 @@
 jobs: 1791339715
 replies: 1791339707
 outreach: 2026-10-07 done
-brief: 2026-10-06
+brief: 2026-10-07
 plan: 2026-10-07
 review: 2026-W39
 memory: 2026-10-07T05:37
