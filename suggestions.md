@@ -2,7 +2,7 @@
 cards: 2026-10-07 18:30
 jobs: 1791404880
 replies: 1791405194
-outreach: 2026-10-07 done
+outreach: 2026-10-08 tries 1 at 02:03
 brief: 2026-10-07
 plan: 2026-10-08
 review: 2026-W39
