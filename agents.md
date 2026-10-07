@@ -30,3 +30,4 @@ How far each may go on its own: off, suggest, undo or quiet. Set in Setup.
 - 2026-10-07 01:51 jobs: 0 alerts, 0 jobs, 0 to score. titaniumworlds: Command failed
 - 2026-10-07 01:57 replies: 0 replies, 0 sends logged. titaniumworlds: login refused (Authentication failed.)
 - 2026-10-07 02:10 outreach: 2 leads, 2 drafts ready
+- 2026-10-07 07:52 brief: Morning brief: 2 leads. Yesterday 0/10 emails, 0/1 proposals.
