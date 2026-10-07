@@ -33,3 +33,4 @@ How far each may go on its own: off, suggest, undo or quiet. Set in Setup.
 - 2026-10-07 07:52 brief: Morning brief: 2 leads. Yesterday 0/10 emails, 0/1 proposals.
 - 2026-10-07 10:47 cards: filed 3 (local, suggest)
 - 2026-10-07 10:57 work: Sign up for the Unreal Engine newsletter using the assistant account hrushikeshagents@gmail.com. If a newsletter signup form exists on Unreal Engine's site, fill it with that email and confirm before 
+- 2026-10-07 11:05 work: Open https://www.unrealengine.com/newsletter, click "Sign in to subscribe", choose "Sign in with Google" and pick hrushikeshagents@gmail.com. If Epic asks to set up a new account, accept the Terms of 
