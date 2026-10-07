@@ -18,3 +18,4 @@ spent: 2026-10 0.0009
 - [ ] 2026-09-27 16:26 fact [[areas/allynerds]]: The user asked what the next step on AllyNerds is on 2026-09-26. ^s280bc8
 - [x] 2026-09-27 19:35 review 2026-W39: reviews/2026-W39.md ^sbd85c9 ✅ 2026-10-02
 - [ ] 2026-09-30 07:57 fact [[areas/aframe-house]]: Cinematics work is scheduled for 2026-09-30. ^sab9537
+- [ ] 2026-10-07 10:47 card hand_off: You have received ₹0 this month and the TMA site work is still not invoiced. Want me to draft the invoice for Dan at Ghostcat so you can review and send it? | {"task":"Draft an invoice for the TMA site work for Ghostcat (Dan), for him to review and send."} ^s2c7bb8
