@@ -42,3 +42,4 @@ aliases: [Titanium]
 - 2026-10-05: Title decided: "UE5 Cinematic Artist" (not Founder). UE5 cinematics = headline. Services: archviz, game trailers, product films.
 - 2026-10-05: Upwork Freelancer Plus active Oct 5 to Nov 4 2026. CANCEL before Nov 5. Profile rewritten (UE5/archviz only, closing line "Got an idea? Let's build it").
 - 2026-10-05: Mountain Modern done. Reels picked: Triangle, Lanterns in the Woods, Through the Diamond, Deck Details. Behance case study for A-Frame Forest Cabin. Open: Instagram reel failed on web (post from phone app), make 40-50s showreel for LinkedIn + site.
+- 2026-10-07: Plans to hire a small team (environment, creature animator, technical artist) and build a custom painterly shader after the Peer Gynt proposal is signed.
