@@ -25,7 +25,7 @@ Where the outreach agent looks each night. Edit this to change the mix; it reads
 ## Rules
 - 2026-10-05: Value first, no price in the first email. Price comes up on the call
 - 2026-10-05: Sound like him, short, plain, specific. The personal first line is always written by him
-- 2026-10-05: Link the reel that fits: developers see living spaces and views, studios see technical polish, game studios see the horror cinematic
+- 2026-10-08: Link the portfolio website, https://titaniumworlds.com, never a reel or Instagram link
 - 2026-10-05: Follow up on day 4 and day 10. Track every email: firm, contact, date, follow-ups, reply
 - 2026-10-05: Upwork filter, all must be yes: the main deliverable is something he does; posted in the last few hours with under 10 to 15 proposals; not interviewing lots; payment verified. Answer what they asked in their order, show the reel, ask 2 or 3 smart questions. Unverified payment: a funded milestone before starting. Direct Contracts at 0% fee for clients from cold email
 - 2026-10-05: Upwork: Connects on proposals only, no boosts, no availability badge, check proposal insights before every bid, never go cheapest
@@ -37,9 +37,9 @@ Hi [Name],
 
 I came across [Project Name] and the [specific detail] really caught my eye.
 
-I make walkthrough films for buildings that aren't built yet, using Unreal Engine. Instead of a buyer staring at a floor plan, they watch the morning light come into the bedroom they're thinking of buying. It makes the decision a lot easier for them, and your sales team gets one video they can use everywhere.
+I make walkthrough films for buildings that aren't built yet, using Unreal Engine. Instead of a buyer staring at a floor plan, they watch the morning light come into the bedroom they're thinking of buying. It makes the decision a lot easier for them, and your sales team gets a full set of 3D marketing material: the walkthrough film, stills and short clips for ads and social, all from one model.
 
-Here's something I finished recently: [reel link]
+You can see my work here: [portfolio link]
 
 Would a quick call make sense to see if something like this fits [Project Name]?
 
@@ -55,12 +55,12 @@ Been going through your work. [Specific project] is really nice, especially [det
 
 I'm a UE5 cinematic artist and I help studios when a client wants a full animation and the team is already busy with stills. Happy to work under your name, and since it's real time, changes don't mean waiting on another overnight render.
 
-Here's my latest piece: [reel link]
+You can see my work here: [portfolio link]
 
 If you get a brief like that, I'd love to help. Open to a quick chat?
 
 Hrushikesh
 Titanium Studios
 
-## Reels
-- 2026-10-06: https://www.instagram.com/titaniumworlds/reel/DeAD6ErupWq/ (his only reel online for now: put it where every template says [reel link]; more will come)
+## Portfolio
+- 2026-10-08: https://titaniumworlds.com goes where every template says [portfolio link]. No reel links in first emails
