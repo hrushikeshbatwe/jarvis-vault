@@ -46,3 +46,4 @@ How far each may go on its own: off, suggest, undo or quiet. Set in Setup.
 - 2026-10-08 09:31 cards: filed 1 (local, suggest)
 - 2026-10-08 14:03 cards: filed 1 (local, suggest)
 - 2026-10-08 18:40 cards: filed 1 (local, suggest)
+- 2026-10-08 19:01 plan: filed 3 (local, undo)
