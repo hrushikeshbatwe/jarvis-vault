@@ -23,7 +23,7 @@
 - [x] Warm message: past client, for repeat work or referrals [[areas/titanium-studios]] 📅 2026-10-07 ✅ 2026-10-07
 - [x] Warm message: the referrer who sent that client [[areas/titanium-studios]] 📅 2026-10-07 ✅ 2026-10-07
 - [ ] Warm message: the AllyNerds founder [[areas/titanium-studios]] 📅 2026-10-08
-- [ ] Warm message: IGDC contacts [[areas/titanium-studios]] 📅 2026-10-08
+- [x] Warm message: IGDC contacts [[areas/titanium-studios]] 📅 2026-10-08 ✅ 2026-10-08
 - [ ] Finish the interior spec portfolio piece [[areas/titanium-studios]] 📅 2026-10-20
 - [ ] October review: emails sent, replies, proposals, calls. Then adjust [[areas/titanium-studios]] 📅 2026-10-31
 - [ ] Library interior sample - in style of reference picture ⏰ 22:16-22:46 📅 2026-10-09 #Samples - Library Interior & Birch Grove
