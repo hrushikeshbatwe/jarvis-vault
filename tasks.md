@@ -22,7 +22,7 @@
 - [x] LinkedIn: headline, About, Titanium experience, AllyNerds end date Oct 2026, Services section, Featured reel and banner from Mountain Modern, skills order [[areas/titanium-studios]] 📅 2026-10-06 ✅ 2026-10-06
 - [x] Warm message: past client, for repeat work or referrals [[areas/titanium-studios]] 📅 2026-10-07 ✅ 2026-10-07
 - [x] Warm message: the referrer who sent that client [[areas/titanium-studios]] 📅 2026-10-07 ✅ 2026-10-07
-- [ ] Warm message: the AllyNerds founder [[areas/titanium-studios]] 📅 2026-10-08
+- [x] Warm message: the AllyNerds founder [[areas/titanium-studios]] 📅 2026-10-08 ✅ 2026-10-08
 - [x] Warm message: IGDC contacts [[areas/titanium-studios]] 📅 2026-10-08 ✅ 2026-10-08
 - [ ] Finish the interior spec portfolio piece [[areas/titanium-studios]] 📅 2026-10-20
 - [ ] October review: emails sent, replies, proposals, calls. Then adjust [[areas/titanium-studios]] 📅 2026-10-31
