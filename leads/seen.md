@@ -15,3 +15,4 @@ Every lead the outreach agent has ever brought, so none comes twice.
 - 2026-10-09 Architecture BRIO | architecturebrio.com
 - 2026-10-09 SABAQI | sabaqi.com
 - 2026-10-09 LumeHaus | lumehaus.in
+- 2026-10-09 House of Katachi | houseofkatachi.com
