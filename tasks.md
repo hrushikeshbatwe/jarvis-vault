@@ -26,7 +26,7 @@
 - [x] Warm message: IGDC contacts [[areas/titanium-studios]] 📅 2026-10-08 ✅ 2026-10-08
 - [ ] Finish the interior spec portfolio piece [[areas/titanium-studios]] 📅 2026-10-20
 - [ ] October review: emails sent, replies, proposals, calls. Then adjust [[areas/titanium-studios]] 📅 2026-10-31
-- [ ] Library interior sample - in style of reference picture ⏰ 22:16-22:46 📅 2026-10-09 #Samples - Library Interior & Birch Grove
+- [ ] Library interior sample - in style of reference picture ⏰ 22:16-22:46 📅 2026-10-10 #Samples - Library Interior & Birch Grove
 - [ ] Birch grove sample - poetic, Renoir colours 📅 2026-10-09 #Samples - Library Interior & Birch Grove
 - [ ] Follow up with Åse on the proposal 📅 2026-10-12
 - [ ] Weigh in and measure waist before the Konkan trip 📅 2026-10-12
