@@ -15,7 +15,7 @@
 - [x] Invoice the TMA site work to Ghostcat [[memory/people/dan]] 📅 2026-10-08 ✅ 2026-10-08
 - [x] Send Åse the drafted reply (scene breakdown, LED resolution, timeline, budget, Cal link) and fix the call length mismatch [[memory/people/ase]] 📅 2026-10-07 ✅ 2026-10-07
 - [ ] CryoPod: write what the AI wants and why it lies [[areas/crypod]]
-- [ ] CryoPod: first build, the wake-up sequence as a Level Sequence [[areas/crypod]]
+- [ ] CryoPod: first build, the wake-up sequence as a Level Sequence [[areas/crypod]] 📅 2026-10-12
 - [ ] Pick a browser to replace Zen (audio bug): Vivaldi or Brave
 - [x] Add PAN in Upwork tax settings, or up to 5% is withheld instead of 0.1% [[areas/titanium-studios]] 📅 2026-10-06 ✅ 2026-10-06
 - [x] Upwork profile: title UE5 Cinematic Artist, Mountain Modern as portfolio highlight 1, custom URL, job alerts (Unreal Engine, archviz animation, 3D walkthrough, real estate animation, cinematic) [[areas/titanium-studios]] 📅 2026-10-06 ✅ 2026-10-06
