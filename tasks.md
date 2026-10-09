@@ -29,3 +29,4 @@
 - [ ] Library interior sample - in style of reference picture ⏰ 22:16-22:46 📅 2026-10-09 #Samples - Library Interior & Birch Grove
 - [ ] Birch grove sample - poetic, Renoir colours 📅 2026-10-09 #Samples - Library Interior & Birch Grove
 - [ ] Follow up with Åse on the proposal 📅 2026-10-12
+- [ ] Weigh in and measure waist before the Konkan trip 📅 2026-10-12
