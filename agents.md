@@ -49,3 +49,4 @@ How far each may go on its own: off, suggest, undo or quiet. Set in Setup.
 - 2026-10-08 19:01 plan: filed 3 (local, undo)
 - 2026-10-09 02:06 outreach: 5 leads, 5 drafts ready
 - 2026-10-09 07:00 brief: Morning brief: 5 leads. Yesterday 0/10 emails, 0/1 proposals.
+- 2026-10-09 09:32 cards: filed 2 (local, suggest)
