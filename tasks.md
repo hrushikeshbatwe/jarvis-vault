@@ -29,7 +29,7 @@
 - [x] Library interior sample - in style of reference picture ⏰ 22:16-22:46 📅 2026-10-10 #Samples - Library Interior & Birch Grove ✅ 2026-10-10
 - [x] Birch grove sample - poetic, Renoir colours 📅 2026-10-10 #Samples - Library Interior & Birch Grove ✅ 2026-10-10
 - [x] Follow up with Åse on the proposal 📅 2026-10-10 ✅ 2026-10-10
-- [ ] Weigh in and measure waist before the Konkan trip 📅 2026-10-12
+- [ ] Weigh in and measure waist before the Konkan trip 📅 2026-10-11
 - [ ] Outreach block: 10 emails, 1-2 proposals, 10 LinkedIn connects (overseas) ⏰ 15:00-16:00 📅 2026-10-11
 - [ ] Walk (30-60 min) ⏰ 19:00-19:30 📅 2026-10-10
 - [ ] Japanese study ⏰ 21:00-21:30 📅 2026-10-10
