@@ -24,7 +24,7 @@ Where the outreach agent looks each night. Edit this to change the mix; it reads
 
 ## Rules
 - 2026-10-05: Value first, no price in the first email. Price comes up on the call
-- 2026-10-05: Sound like him, short, plain, specific. The personal first line is always written by him
+- 2026-10-10: Sound like him, short, plain, specific. The email is complete, no [YOUR LINE] for him to fill
 - 2026-10-08: Link the portfolio website, https://titaniumworlds.com, never a reel or Instagram link
 - 2026-10-05: Follow up on day 4 and day 10. Track every email: firm, contact, date, follow-ups, reply
 - 2026-10-05: Upwork filter, all must be yes: the main deliverable is something he does; posted in the last few hours with under 10 to 15 proposals; not interviewing lots; payment verified. Answer what they asked in their order, show the reel, ask 2 or 3 smart questions. Unverified payment: a funded milestone before starting. Direct Contracts at 0% fee for clients from cold email
