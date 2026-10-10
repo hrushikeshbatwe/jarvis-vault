@@ -54,3 +54,4 @@ How far each may go on its own: off, suggest, undo or quiet. Set in Setup.
 - 2026-10-09 19:43 plan: filed 3 (local, undo)
 - 2026-10-09 19:43 cards: filed 1 (local, suggest)
 - 2026-10-10 08:56 brief: Morning brief: nothing new overnight. Yesterday 0/10 emails, 0/1 proposals.
+- 2026-10-10 10:49 cards: no cards in the answer (local, suggest)
