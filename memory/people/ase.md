@@ -8,3 +8,4 @@ aliases: []
 - 2026-10-07: now a proposal
 - 2026-10-07: Proposal sent 6 Oct 2026 and not yet signed; needs signing by 20 Oct and script lock by 7 Nov.
 - 2026-10-07: Asked for 2 free sample stills, promised within 4 days: a library interior in the style of her reference picture, and a poetic birch grove in Renoir colours.
+- 2026-10-10: He has sent her the sample stills.
