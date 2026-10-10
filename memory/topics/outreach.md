@@ -30,34 +30,66 @@ Where the outreach agent looks each night. Edit this to change the mix; it reads
 - 2026-10-05: Upwork filter, all must be yes: the main deliverable is something he does; posted in the last few hours with under 10 to 15 proposals; not interviewing lots; payment verified. Answer what they asked in their order, show the reel, ask 2 or 3 smart questions. Unverified payment: a funded milestone before starting. Direct Contracts at 0% fee for clients from cold email
 - 2026-10-05: Upwork: Connects on proposals only, no boosts, no availability badge, check proposal insights before every bid, never go cheapest
 
+## The offer
+How every first email is built (2026-10-10, from Alex Hormozi's $100M Leads and $100M Offers: show big value fast, give away something they would normally pay for, make it so easy to say yes it feels silly to say no). Edit this to change every email.
+- 2026-10-10: Make it about them. Name their real project or product and one real detail from their site, and say what is missing (only stills, no film, only phone photos). If the agent cannot find a real detail, the lead is skipped
+- 2026-10-10: The free sample: a free 10 to 15 second 3D film shot of THEIR project or product, built in Unreal Engine from renders, plans or photos they already have. They keep it either way and can post it anywhere. No cost, no catch
+- 2026-10-10: The dream outcome: developers sell units before they are built, studios sell animation without hiring, brands launch without a shoot
+- 2026-10-10: The bonuses from the same 3D model: a full set of 3D marketing material, the film, fresh stills, and short vertical clips for Instagram and YouTube ads
+- 2026-10-10: Fast and easy for them: they send what they already have, he does the rest, and since it is real time a change takes hours, not another overnight render
+- 2026-10-10: One tiny next step: "Want me to make it? Just reply yes." Never ask for a call in the first email
+- 2026-10-10: Plain words a 10 year old reads easily, short lines, under 150 words. No price, no buzzwords, no "I hope this finds you well"
+
 ## Template: property developers
-Subject: quick idea for [Project Name]
+Subject: a free film shot of [Project Name]
 
 Hi [Name],
 
-I came across [Project Name] and the [specific detail] really caught my eye.
+[Project Name] looks great, especially [one real detail from their site]. Right now buyers only see stills and a floor plan, so they have to imagine the rest.
 
-I make walkthrough films for buildings that aren't built yet, using Unreal Engine. Instead of a buyer staring at a floor plan, they watch the morning light come into the bedroom they're thinking of buying. It makes the decision a lot easier for them, and your sales team gets a full set of 3D marketing material: the walkthrough film, stills and short clips for ads and social, all from one model.
+So here's an idea. I'll make a free 15 second film shot of one space in [Project Name], like [the living room at golden hour, or the view from the top floor], built in Unreal Engine from the renders you already have. You keep it either way and can use it in your ads, on your site, anywhere.
+
+If you like it, I can make the full walkthrough. From the same 3D model you get a full set of marketing material: the film, fresh stills, and short vertical clips for Instagram and YouTube ads. And since it's real time, changes take hours, not weeks.
 
 You can see my work here: [portfolio link]
 
-Would a quick call make sense to see if something like this fits [Project Name]?
+Want me to make the shot? Just reply yes and send whatever renders or plans you can share.
 
 Hrushikesh
 Titanium Studios
 
 ## Template: archviz studios
-Subject: animation help for [Studio Name]
+Subject: a free animation test for [Studio Name]
 
 Hi [Name],
 
-Been going through your work. [Specific project] is really nice, especially [detail].
+[Specific project] is lovely, especially [one real detail]. I noticed your work is all stills though, no animation yet.
 
-I'm a UE5 cinematic artist and I help studios when a client wants a full animation and the team is already busy with stills. Happy to work under your name, and since it's real time, changes don't mean waiting on another overnight render.
+When a client asks you for a film, I can make it for you, under your name. You keep the client, I do the animation in Unreal Engine, and a change takes hours instead of another overnight render.
+
+To show you, I'll animate one of your existing scenes for free: a 10 second camera move through [specific project]. No cost, no catch. If it's good, you have a new service to sell. If not, you lost nothing.
 
 You can see my work here: [portfolio link]
 
-If you get a brief like that, I'd love to help. Open to a quick chat?
+Want me to try it? Just reply yes and I'll start this week.
+
+Hrushikesh
+Titanium Studios
+
+## Template: product brands
+Subject: a free 3D shot of [Product]
+
+Hi [Name],
+
+[Product or collection] looks great, especially [one real detail]. On your site it's only photos though, and photos can't show [how it moves, or how it looks in a real room].
+
+I make 3D product films in Unreal Engine, so there's no studio shoot and no shipping samples. I'll make a free 10 second 3D shot of [Product] from your product photos. Yours to keep and post.
+
+If you like it, the same 3D model gives you a full set of marketing material: a launch film, ad cutdowns, vertical clips for Instagram, and clean stills in every colour.
+
+You can see my work here: [portfolio link]
+
+Want me to make it? Just reply yes.
 
 Hrushikesh
 Titanium Studios
