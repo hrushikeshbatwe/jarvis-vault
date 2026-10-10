@@ -55,3 +55,4 @@ How far each may go on its own: off, suggest, undo or quiet. Set in Setup.
 - 2026-10-09 19:43 cards: filed 1 (local, suggest)
 - 2026-10-10 08:56 brief: Morning brief: nothing new overnight. Yesterday 0/10 emails, 0/1 proposals.
 - 2026-10-10 10:49 cards: no cards in the answer (local, suggest)
+- 2026-10-10 10:49 work: Research where part time UE5 developer contracts are usually found (job boards, studios, freelance platforms) and list the best options for a February start, with short notes on each.: came back empty
