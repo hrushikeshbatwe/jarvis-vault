@@ -65,3 +65,4 @@ How far each may go on its own: off, suggest, undo or quiet. Set in Setup.
 - 2026-10-10 21:50 memory: filed 2 (local, undo)
 - 2026-10-10 21:50 cards: filed 3 (local, suggest)
 - 2026-10-10 23:15 work: Research the JLPT N4 June 2027 registration window and form steps for his location, and summarize the deadline and what he needs to fill in. (work/2026-10-10-research-the-jlpt-n4-june-2027-registratio
+- 2026-10-10 23:26 work: Research where part time UE5 developer contracts are usually found (job boards, studios, freelance platforms) and list the best options for a February start, with short notes on each. (work/2026-10-10
