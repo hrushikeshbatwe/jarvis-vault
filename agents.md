@@ -64,3 +64,4 @@ How far each may go on its own: off, suggest, undo or quiet. Set in Setup.
 - 2026-10-10 21:50 plan: filed 3 (local, undo)
 - 2026-10-10 21:50 memory: filed 2 (local, undo)
 - 2026-10-10 21:50 cards: filed 3 (local, suggest)
+- 2026-10-10 23:15 work: Research the JLPT N4 June 2027 registration window and form steps for his location, and summarize the deadline and what he needs to fill in. (work/2026-10-10-research-the-jlpt-n4-june-2027-registratio
