@@ -30,3 +30,4 @@
 - [x] Birch grove sample - poetic, Renoir colours 📅 2026-10-10 #Samples - Library Interior & Birch Grove ✅ 2026-10-10
 - [x] Follow up with Åse on the proposal 📅 2026-10-10 ✅ 2026-10-10
 - [ ] Weigh in and measure waist before the Konkan trip 📅 2026-10-12
+- [ ] Outreach block: 10 emails, 1-2 proposals, 10 LinkedIn connects (overseas) ⏰ 15:00-16:00 📅 2026-10-10
