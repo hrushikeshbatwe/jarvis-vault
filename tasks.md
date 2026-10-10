@@ -28,5 +28,5 @@
 - [ ] October review: emails sent, replies, proposals, calls. Then adjust [[areas/titanium-studios]] 📅 2026-10-31
 - [x] Library interior sample - in style of reference picture ⏰ 22:16-22:46 📅 2026-10-10 #Samples - Library Interior & Birch Grove ✅ 2026-10-10
 - [x] Birch grove sample - poetic, Renoir colours 📅 2026-10-10 #Samples - Library Interior & Birch Grove ✅ 2026-10-10
-- [ ] Follow up with Åse on the proposal 📅 2026-10-10
+- [x] Follow up with Åse on the proposal 📅 2026-10-10 ✅ 2026-10-10
 - [ ] Weigh in and measure waist before the Konkan trip 📅 2026-10-12
