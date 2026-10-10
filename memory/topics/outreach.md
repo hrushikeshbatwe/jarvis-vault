@@ -18,6 +18,10 @@ Where the outreach agent looks each night. Edit this to change the mix; it reads
 - 5 product brands and creative agencies: product launch films and campaign cinematics. Brands launching something physical with no product film; agencies that run campaigns but have no 3D or real-time artist in house
 - 5 indie and mid-sized game studios: reveal trailers, environments and cinematics. Studios with a game announced or in Coming Soon and no real trailer yet, with a team and a budget, not a solo hobby project
 - 2026-10-10: Game studios are back in the mix as one of three tested segments (he dropped them on 2026-10-05)
+- 2026-10-10: Qualify for a need now, not weak visuals. A firm with no video may just have no budget; one preparing a launch may be looking for a partner right now. Every lead needs evidence of an upcoming commercial need: a new product launch, a new facility or expansion, an upcoming expo or trade show, a funding round, a game announcement or release date
+- 2026-10-10: Also a specific product or project that would truly gain from a cinematic, signs they can afford professional production, and a realistic way to reach the buyer
+- 2026-10-10: Note any decision maker named on their public site (founder, head of marketing, product manager), even when the only address is info@ or sales@. Never guess their email
+- 2026-10-10: A contact form only is a lead for him to review by hand, not a draft
 
 ## Channels, fastest first
 - 2026-10-05: Warm network (past client, the referrer, the AllyNerds founder, IGDC contacts), then cold email (the main channel), then Upwork and CGHero (strong fits only, apply early), then LinkedIn (5 to 10 targeted connects a day), then communities (UE5 and indie Discords, r/unrealengine, help not spam). YouTube is for fun and never eats outreach time
@@ -32,29 +36,30 @@ Where the outreach agent looks each night. Edit this to change the mix; it reads
 - 2026-10-05: Upwork: Connects on proposals only, no boosts, no availability badge, check proposal insights before every bid, never go cheapest
 
 ## The offer
-How every first email is built (2026-10-10, from Alex Hormozi's $100M Leads and $100M Offers: show big value fast, give away something they would normally pay for, make it so easy to say yes it feels silly to say no). Edit this to change every email.
-- 2026-10-10: Make it about them. Name their real project or product and one real detail from their site, and say what is missing (only stills, no film, only phone photos). If the agent cannot find a real detail, the lead is skipped
-- 2026-10-10: The free sample: a free 10 to 15 second 3D film shot of THEIR project or product, built in Unreal Engine from renders, plans or photos they already have. They keep it either way and can post it anywhere. No cost, no catch
-- 2026-10-10: The dream outcome: industrial firms show a machine working before it is built or shipped, win investors and buyers; brands launch without a shoot; agencies sell 3D without hiring; game studios get a reveal trailer that looks like the game
-- 2026-10-10: The bonuses from the same 3D model: a full set of 3D marketing material, the film, fresh stills, and short vertical clips for Instagram and YouTube ads
-- 2026-10-10: Fast and easy for them: they send what they already have, he does the rest, and since it is real time a change takes hours, not another overnight render
-- 2026-10-10: One tiny next step: "Want me to make it? Just reply yes." Never ask for a call in the first email
+How every first email is built. Edit this to change every email.
+- 2026-10-10: Make it about them. Name their real product or project, one real detail from their site, and the signal (the launch, the new plant, the expo). If the agent cannot find a real detail and a signal, the lead is skipped
+- 2026-10-10: Never claim they have no video, film or trailer. Not finding one on a few pages is not proof
+- 2026-10-10: For a cold prospect the offer is cheap to give: the most relevant case study from his work, or a short creative concept for their product (a few lines and reference frames on how a film could open). Never promise a free finished film or sample shot in a first email
+- 2026-10-10: A custom free sample is a selective investment he decides on himself, only for an exceptional opportunity, only after they reply. A free trial never comes with commercial usage rights unless he decides it does
+- 2026-10-10: The dream outcome: industrial firms show a machine working before it is built or shipped and win buyers and investors; brands launch without a shoot; agencies sell 3D without hiring; game studios get a reveal trailer that looks like the game
+- 2026-10-10: The bonuses of working with him: from one 3D model, a full set of marketing material, the film, stills and short vertical clips for ads. Real time, so a change takes hours, not another overnight render
+- 2026-10-10: One tiny next step: "Want me to send it? Just reply yes." Never ask for a call in the first email
 - 2026-10-10: Plain words a 10 year old reads easily, short lines, under 150 words. No price, no buzzwords, no "I hope this finds you well"
 
 ## Template: industrial and energy
-Subject: a free 3D shot of [Product or machine]
+Subject: [Product or machine] at [the launch, expo or new plant]
 
 Hi [Name],
 
-[Product or machine] looks impressive, especially [one real detail, like its output or what makes it different]. On your site it's shown in photos and specs, which makes it hard to see it actually working.
+Saw that [the signal, like the launch of the X200 or your stand at Expo Y]. [Product or machine] looks impressive, especially [one real detail, like its output or what makes it different].
 
-I make 3D cinematics in Unreal Engine for machines and energy products. I'll make a free 10 second 3D shot of [Product or machine] in action, built from the photos or drawings you already have. You keep it either way and can use it in sales decks, trade shows or investor updates.
+I make 3D cinematics in Unreal Engine for machines and energy products: a film that shows the machine working, how it works inside, and why it matters, ready for a launch, a trade show stand or an investor deck.
 
-If you like it, the same 3D model can become a full product demo film, an explainer of how it works inside, and clean stills for brochures. And since it's real time, a change takes hours, not weeks.
+I have a short case study of a similar piece, and I can sketch a quick concept for how a film of [Product or machine] could open.
 
 You can see my work here: [portfolio link]
 
-Want me to make it? Just reply yes.
+Want me to send them? Just reply yes.
 
 Hrushikesh
 Titanium Studios
@@ -64,51 +69,51 @@ Subject: 3D for [Agency Name]'s next campaign
 
 Hi [Name],
 
-[Specific campaign or client work] was great, especially [one real detail]. I noticed you don't show 3D or CG product films in your work yet.
+[Specific campaign or client work] was great, especially [one real detail]. And [the signal, like a new client win or a big launch you're working on].
 
 When a client wants a product launch film or a campaign cinematic, I can make it for you, under your name. You keep the client, I do the 3D in Unreal Engine, and a change takes hours instead of a re-render.
 
-To show you, I'll make a free 10 second 3D shot for one of your current clients' products. No cost, no catch. If it's good, you have a new service to sell.
+I can send a short case study, or a quick concept for one of your current campaigns.
 
 You can see my work here: [portfolio link]
 
-Want me to try it? Just reply yes.
+Want me to send it? Just reply yes.
 
 Hrushikesh
 Titanium Studios
 
 ## Template: game studios
-Subject: a free cinematic shot for [Game Name]
+Subject: a reveal cinematic for [Game Name]
 
 Hi [Name],
 
-[Game Name] looks great, especially [one real detail from the store page or site]. I noticed there's no proper reveal trailer yet, just [gameplay clips or screenshots].
+Congrats on [the signal, like the announcement or the release date]. [Game Name] looks great, especially [one real detail from the store page or site].
 
-I make game cinematics in Unreal Engine: reveal trailers, environment flythroughs and story shots. I'll make a free 10 second cinematic shot of [a place or moment from the game], from your screenshots or a build if you can share one. You keep it either way.
+I make game cinematics in Unreal Engine: reveal trailers, environment flythroughs and story shots, plus short cuts for the store page and socials.
 
-If you like it, I can make the full reveal trailer, plus short cuts for your store page and socials.
+I can send a quick concept for how a reveal could open, built around [a place or moment from the game].
 
 You can see my work here: [portfolio link]
 
-Want me to make the shot? Just reply yes.
+Want me to send it? Just reply yes.
 
 Hrushikesh
 Titanium Studios
 
 ## Template: product brands
-Subject: a free 3D shot of [Product]
+Subject: a launch film for [Product]
 
 Hi [Name],
 
-[Product or collection] looks great, especially [one real detail]. On your site it's only photos though, and photos can't show [how it moves, or how it looks in a real room].
+Saw that [the signal, like the new collection or the launch date]. [Product or collection] looks great, especially [one real detail].
 
-I make 3D product films in Unreal Engine, so there's no studio shoot and no shipping samples. I'll make a free 10 second 3D shot of [Product] from your product photos. Yours to keep and post.
+I make 3D product films in Unreal Engine, so there's no studio shoot and no shipping samples. From one 3D model you get a launch film, ad cutdowns, vertical clips for Instagram, and clean stills in every colour.
 
-If you like it, the same 3D model gives you a full set of marketing material: a launch film, ad cutdowns, vertical clips for Instagram, and clean stills in every colour.
+I can send a short case study, or a quick concept for how a film of [Product] could open.
 
 You can see my work here: [portfolio link]
 
-Want me to make it? Just reply yes.
+Want me to send it? Just reply yes.
 
 Hrushikesh
 Titanium Studios
